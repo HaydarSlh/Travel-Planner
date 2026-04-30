@@ -1,0 +1,205 @@
+destination,climate_zone,avg_temp_peak_season_c,peak_season_length_months,terrain_primary,coastal_access,unesco_sites_count,outdoor_activity_score,daily_cost_bucket,accommodation_range,visa_difficulty,english_prevalence,tourism_maturity,travel_style
+"Hobart, Australia",Cfa,23,3,Urban,0,2,1,3,Mid-Luxury,1,3,Established,Family
+"Serengeti, Tanzania",Aw,25,3,Urban,0,0,1,2,Full Range,2,1,Developing,Family
+"New Orleans, USA",Cfa,28,3,Urban,0,0,1,3,Mid-Luxury,1,3,Established,Family
+"Cuenca, Ecuador",Cfa,25,3,Urban,0,0,1,1,Hostel-Mid,2,1,Developing,Budget
+"Bora Bora, French Polynesia",Cfa,30,4,Coastal,1,1,2,4,Mid-Luxury,2,1,Developing,Relaxation
+"Istanbul, Turkey",Csa,26,3,Urban,0,1,1,3,Mid-Luxury,2,1,Developing,Family
+"Medellin, Colombia",Cfa,27,4,Urban,0,1,1,1,Hostel-Mid,2,1,Developing,Budget
+"Phnom Penh, Cambodia",Aw,33,3,Urban,0,0,1,2,Full Range,2,1,Developing,Family
+"Montreal, Canada",Cfb,23,4,Urban,0,2,1,4,Mid-Luxury,1,3,Established,Luxury
+"Vienna, Austria",Cfb,22,5,Urban,0,3,1,2,Full Range,2,1,Developing,Family
+"Copenhagen, Denmark",Cfa,28,3,Urban,0,2,1,3,Mid-Luxury,2,3,Developing,Family
+"Palermo, Italy",Csa,25,5,Urban,0,2,1,2,Full Range,1,2,Established,Family
+"Buenos Aires, Argentina",Cfa,25,4,Urban,0,0,1,2,Full Range,2,1,Developing,Family
+"Christchurch, New Zealand",Cfa,23,4,Urban,0,2,1,4,Mid-Luxury,1,3,Developing,Luxury
+"Cape Town, South Africa",Cfa,27,3,Urban,1,2,2,3,Mid-Luxury,2,3,Developing,Family
+"Frankfurt, Germany",Cfb,25,5,Urban,0,4,1,2,Full Range,1,3,Established,Family
+"Zurich, Switzerland",Cfb,24,5,Urban,0,1,1,3,Mid-Luxury,2,1,Developing,Family
+"Guadalajara, Mexico",Cfa,29,4,Urban,0,4,1,2,Full Range,2,2,Developing,Family
+"Porto, Portugal",Csa,27,3,Urban,0,1,1,2,Full Range,2,2,Developing,Family
+"Bordeaux, France",Cfa,27,4,Urban,0,4,1,2,Full Range,1,2,Established,Family
+"Osaka, Japan",Cfa,25,5,Urban,0,4,1,3,Mid-Luxury,1,2,Established,Family
+"Vancouver, Canada",Cfb,29,4,Urban,0,3,1,3,Mid-Luxury,1,3,Established,Family
+"Yellowstone, USA",Cfa,26,3,Mountain,0,1,3,4,Mid-Luxury,1,3,Established,Luxury
+"Valparaiso, Chile",Cfa,28,5,Urban,0,3,1,3,Mid-Luxury,2,1,Developing,Family
+"Goa, India",Cfa,25,3,Coastal,1,6,2,2,Full Range,2,1,Developing,Culture
+"Rio de Janeiro, Brazil",Cfa,23,3,Urban,1,0,2,2,Full Range,2,1,Developing,Family
+"Stockholm, Sweden",Cfb,17,5,Urban,0,3,1,2,Full Range,2,3,Developing,Family
+"Nara, Japan",Cfa,28,4,Urban,0,6,1,4,Mid-Luxury,1,2,Established,Culture
+"Fukuoka, Japan",Cfa,30,4,Urban,0,6,1,3,Mid-Luxury,1,2,Established,Culture
+"Rome, Italy",Csa,23,5,Urban,0,9,1,3,Mid-Luxury,1,2,Overtourism,Culture
+"Tel Aviv, Israel",Csa,23,4,Urban,0,3,1,2,Full Range,2,1,Developing,Family
+"Lima, Peru",Cfa,29,3,Urban,0,2,1,1,Hostel-Mid,2,1,Developing,Budget
+"Evora, Portugal",Csa,30,3,Urban,0,2,1,2,Full Range,2,2,Developing,Family
+"Geneva, Switzerland",Cfb,24,4,Urban,0,1,1,3,Mid-Luxury,2,1,Developing,Family
+"Wellington, New Zealand",Cfa,27,4,Urban,0,0,1,3,Mid-Luxury,1,3,Developing,Family
+"Havana, Cuba",Cfa,27,4,Urban,0,1,1,2,Full Range,2,1,Developing,Family
+"Berlin, Germany",Cfb,25,5,Urban,0,2,1,2,Full Range,1,3,Established,Family
+"Kruger National Park, South Africa",Cfa,29,3,Urban,0,1,1,2,Full Range,2,3,Developing,Family
+"Banff, Canada",Cfb,29,5,Mountain,0,1,3,4,Mid-Luxury,1,3,Established,Luxury
+"Budapest, Hungary",Cfa,30,5,Urban,0,3,1,2,Full Range,2,1,Developing,Family
+"Malaga, Spain",Csa,30,5,Urban,0,3,1,3,Mid-Luxury,1,2,Established,Family
+"Zermatt, Switzerland",Cfb,28,5,Mountain,0,2,3,4,Mid-Luxury,2,1,Developing,Luxury
+"Galapagos Islands, Ecuador",Cfa,30,4,Urban,0,0,1,1,Hostel-Mid,2,1,Developing,Budget
+"Swiss Alps, Switzerland",Cfb,18,3,Mountain,0,2,3,3,Mid-Luxury,2,1,Developing,Adventure
+"Maui, USA",Cfa,30,3,Coastal,1,1,2,3,Mid-Luxury,1,3,Established,Relaxation
+"Milford Sound, New Zealand",Cfa,23,5,Urban,0,0,1,3,Mid-Luxury,1,3,Developing,Family
+"Cartagena, Colombia",Cfa,23,3,Urban,0,2,1,1,Hostel-Mid,2,1,Developing,Budget
+"Venice, Italy",Csa,30,3,Urban,1,9,1,3,Mid-Luxury,1,2,Overtourism,Culture
+"Queenstown, New Zealand",Cfa,25,5,Mountain,0,1,3,4,Mid-Luxury,1,3,Developing,Luxury
+"Gothenburg, Sweden",Cfb,18,4,Urban,0,3,1,2,Full Range,2,3,Developing,Family
+"Maasai Mara, Kenya",Aw,23,3,Urban,0,3,1,3,Mid-Luxury,2,1,Developing,Family
+"Graz, Austria",Cfb,28,4,Urban,0,3,1,2,Full Range,2,1,Developing,Family
+"San Francisco, USA",Cfa,23,3,Urban,1,3,1,4,Mid-Luxury,1,3,Established,Luxury
+"Chicago, USA",Cfa,23,3,Urban,0,1,1,3,Mid-Luxury,1,3,Established,Family
+"Dead Sea, Jordan",Csa,30,4,Urban,0,1,1,3,Mid-Luxury,2,1,Developing,Family
+"Melbourne, Australia",Cfa,24,4,Urban,1,3,1,3,Mid-Luxury,1,3,Established,Family
+"Wadi Rum, Jordan",Bwh,23,4,Desert,0,0,1,2,Full Range,2,1,Developing,Family
+"Mexico City, Mexico",Cfa,30,3,Urban,0,2,1,2,Full Range,2,2,Developing,Family
+"Merida, Mexico",Cfa,24,4,Urban,0,5,1,3,Mid-Luxury,2,2,Developing,Culture
+"Da Nang, Vietnam",Aw,31,4,Urban,0,0,1,1,Hostel-Mid,2,1,Developing,Budget
+"Sydney, Australia",Cfa,28,3,Urban,1,3,2,4,Mid-Luxury,1,3,Established,Luxury
+"Dublin, Ireland",Cfa,29,4,Urban,0,3,1,3,Mid-Luxury,2,3,Developing,Family
+"Everest Base Camp, Nepal",Cfa,24,3,Mountain,0,2,3,1,Hostel-Mid,2,1,Developing,Adventure
+"Valencia, Spain",Csa,22,5,Urban,0,6,1,2,Full Range,1,2,Established,Culture
+"Prague, Czech Republic",Cfa,27,3,Urban,0,5,1,3,Mid-Luxury,2,1,Overtourism,Culture
+"Las Vegas, USA",Cfa,30,5,Desert,0,1,1,3,Mid-Luxury,1,3,Established,Family
+"Barcelona, Spain",Csa,30,3,Urban,1,3,1,2,Full Range,1,2,Overtourism,Family
+"New York City, USA",Cfa,23,5,Urban,0,1,1,4,Mid-Luxury,1,3,Overtourism,Luxury
+"Ibiza, Spain",Csa,23,5,Coastal,1,3,2,2,Full Range,1,2,Established,Family
+"Faro, Portugal",Csa,23,4,Urban,0,2,1,3,Mid-Luxury,2,2,Developing,Family
+"Arequipa, Peru",Cfa,25,5,Urban,0,2,1,1,Hostel-Mid,2,1,Developing,Budget
+"Kaohsiung, Taiwan",Cfa,26,4,Urban,0,1,1,3,Mid-Luxury,2,1,Developing,Family
+"Antigua, Guatemala",Cfa,29,4,Urban,0,0,1,1,Hostel-Mid,2,1,Developing,Budget
+"Hamburg, Germany",Cfb,29,5,Urban,0,6,1,2,Full Range,1,3,Established,Culture
+"Miami, USA",Cfa,23,5,Urban,1,1,1,4,Mid-Luxury,1,3,Established,Luxury
+"Machu Picchu, Peru",Cfa,24,4,Urban,0,0,1,1,Hostel-Mid,2,1,Developing,Budget
+"Hoi An, Vietnam",Aw,33,4,Urban,0,1,1,2,Full Range,2,1,Developing,Family
+"Tromso, Norway",Dfc,19,5,Urban,0,0,1,4,Mid-Luxury,2,3,Developing,Luxury
+"Cusco, Peru",Cfa,23,3,Mountain,0,2,3,1,Hostel-Mid,2,1,Developing,Adventure
+"Inle Lake, Myanmar",Cfa,23,5,Urban,0,1,1,3,Mid-Luxury,2,1,Developing,Family
+"Cozumel, Mexico",Cfa,26,5,Coastal,1,3,2,3,Mid-Luxury,2,2,Developing,Relaxation
+"Rotorua, New Zealand",Cfa,25,5,Jungle,0,2,3,4,Mid-Luxury,1,3,Developing,Luxury
+"Salzburg, Austria",Cfb,26,3,Urban,0,0,1,3,Mid-Luxury,2,1,Developing,Family
+"Auckland, New Zealand",Cfa,26,3,Urban,1,0,1,4,Mid-Luxury,1,3,Developing,Luxury
+"Seville, Spain",Csa,24,5,Urban,0,4,1,2,Full Range,1,2,Established,Family
+"Siem Reap, Cambodia",Aw,35,5,Urban,0,3,1,1,Hostel-Mid,2,1,Developing,Budget
+"Kuala Lumpur, Malaysia",Aw,29,3,Urban,0,1,1,2,Full Range,2,3,Developing,Family
+"Fjords, Norway",Dfc,20,5,Coastal,1,1,2,4,Mid-Luxury,2,3,Developing,Relaxation
+"Cebu, Philippines",Aw,24,3,Urban,0,2,1,2,Full Range,2,3,Developing,Family
+"Krakow, Poland",Cfb,22,4,Urban,0,1,1,2,Full Range,2,1,Developing,Family
+"Vientiane, Laos",Aw,23,4,Urban,0,3,1,1,Hostel-Mid,2,1,Developing,Budget
+"Nice, France",Cfa,25,3,Coastal,1,3,2,3,Mid-Luxury,1,2,Established,Relaxation
+"Victoria Falls, Zimbabwe",Cfa,22,3,Urban,0,2,1,3,Mid-Luxury,2,1,Developing,Family
+"Cologne, Germany",Cfb,25,4,Urban,0,3,1,2,Full Range,1,3,Established,Family
+"Athens, Greece",Csa,28,3,Urban,0,12,1,2,Full Range,2,2,Developing,Culture
+"Quebec City, Canada",Cfb,25,4,Urban,0,2,1,4,Mid-Luxury,1,3,Established,Luxury
+"Innsbruck, Austria",Cfb,25,3,Urban,0,0,1,2,Full Range,2,1,Developing,Family
+"Marrakech, Morocco",Csa,28,4,Desert,0,2,1,1,Hostel-Mid,2,1,Developing,Budget
+"Bagan, Myanmar",Cfa,26,4,Urban,0,3,1,3,Mid-Luxury,2,1,Developing,Family
+"Nha Trang, Vietnam",Aw,28,3,Urban,0,2,1,1,Hostel-Mid,2,1,Developing,Budget
+"Bangkok, Thailand",Aw,37,4,Urban,0,0,1,1,Hostel-Mid,2,2,Developing,Budget
+"Helsinki, Finland",Cfb,21,4,Urban,0,2,1,3,Mid-Luxury,2,3,Developing,Family
+"Munich, Germany",Cfb,30,3,Urban,0,5,1,2,Full Range,1,3,Established,Culture
+"Seattle, USA",Cfa,26,3,Urban,0,3,1,3,Mid-Luxury,1,3,Established,Family
+"Ottawa, Canada",Cfb,30,5,Urban,0,1,1,4,Mid-Luxury,1,3,Established,Luxury
+"Dubai, UAE",Bwh,34,3,Desert,0,2,1,4,Mid-Luxury,2,3,Developing,Luxury
+"Kathmandu, Nepal",Cfa,23,5,Mountain,0,2,3,2,Full Range,2,1,Developing,Adventure
+"Granada, Spain",Csa,28,4,Urban,0,5,1,3,Mid-Luxury,1,2,Established,Culture
+"Cancun, Mexico",Cfa,30,3,Coastal,1,3,2,3,Mid-Luxury,2,2,Developing,Relaxation
+"Lagos, Portugal",Csa,28,5,Urban,0,1,1,3,Mid-Luxury,2,2,Developing,Family
+"Manila, Philippines",Aw,28,5,Urban,0,0,1,2,Full Range,2,3,Developing,Family
+"Kerala, India",Cfa,26,3,Jungle,0,5,3,2,Full Range,2,1,Developing,Adventure
+"Zanzibar, Tanzania",Aw,29,4,Coastal,1,3,2,2,Full Range,2,1,Developing,Family
+"Sintra, Portugal",Csa,30,4,Urban,0,1,1,2,Full Range,2,2,Developing,Family
+"Lyon, France",Cfa,26,5,Urban,0,6,1,3,Mid-Luxury,1,2,Established,Culture
+"Taipei, Taiwan",Cfa,23,3,Urban,0,2,1,2,Full Range,2,1,Developing,Family
+"Warsaw, Poland",Cfb,25,3,Urban,0,0,1,2,Full Range,2,1,Developing,Family
+"Jaipur, India",Cfa,25,4,Urban,0,6,1,1,Hostel-Mid,2,1,Developing,Culture
+"Edinburgh, UK",Cfa,29,4,Urban,0,1,1,3,Mid-Luxury,1,3,Established,Family
+"Casablanca, Morocco",Csa,29,4,Urban,0,1,1,1,Hostel-Mid,2,1,Developing,Budget
+"Crete, Greece",Csa,22,3,Coastal,1,5,2,2,Full Range,2,2,Developing,Culture
+"Dresden, Germany",Cfb,24,5,Urban,0,6,1,3,Mid-Luxury,1,3,Established,Culture
+"Mykonos, Greece",Csa,22,5,Coastal,1,3,2,2,Full Range,2,2,Developing,Family
+"Singapore, Singapore",Cfa,29,3,Urban,0,3,1,4,Mid-Luxury,1,3,Developing,Luxury
+"Cairo, Egypt",Bwh,35,5,Desert,0,11,1,2,Full Range,2,1,Developing,Culture
+"Victoria, Canada",Cfb,24,5,Urban,0,3,1,4,Mid-Luxury,1,3,Established,Luxury
+"Bali, Indonesia",Af,32,3,Jungle,0,2,3,2,Full Range,2,1,Overtourism,Adventure
+"Portland, USA",Cfa,25,4,Urban,0,3,1,3,Mid-Luxury,1,3,Established,Family
+"Madrid, Spain",Csa,26,3,Urban,0,4,1,3,Mid-Luxury,1,2,Established,Family
+"Agra, India",Cfa,27,5,Urban,0,6,1,1,Hostel-Mid,2,1,Developing,Culture
+"Dubrovnik, Croatia",Csa,24,3,Urban,0,3,1,2,Full Range,2,1,Developing,Family
+"San Jose, Costa Rica",Cfa,25,3,Urban,0,3,1,3,Mid-Luxury,2,1,Developing,Family
+"Penang, Malaysia",Aw,33,5,Urban,0,3,1,3,Mid-Luxury,2,3,Developing,Family
+"Phuket, Thailand",Aw,28,3,Coastal,1,3,2,2,Full Range,2,2,Developing,Family
+"Hanoi, Vietnam",Aw,37,5,Urban,0,0,1,2,Full Range,2,1,Developing,Family
+"Milan, Italy",Csa,29,3,Urban,0,4,1,3,Mid-Luxury,1,2,Established,Family
+"Calgary, Canada",Cfb,28,4,Urban,0,1,1,4,Mid-Luxury,1,3,Established,Luxury
+"Paris, France",Cfa,25,4,Urban,0,11,1,4,Mid-Luxury,1,2,Overtourism,Culture
+"Tokyo, Japan",Cfa,22,4,Urban,0,4,1,4,Mid-Luxury,1,2,Established,Luxury
+"Lisbon, Portugal",Csa,24,4,Urban,1,1,1,2,Full Range,2,2,Developing,Family
+"Marseille, France",Cfa,28,5,Urban,0,6,1,2,Full Range,1,2,Established,Culture
+"Stavanger, Norway",Dfc,16,5,Urban,0,3,1,3,Mid-Luxury,2,3,Developing,Family
+"Darwin, Australia",Cfa,29,3,Urban,0,0,1,4,Mid-Luxury,1,3,Established,Luxury
+"Oaxaca, Mexico",Cfa,28,4,Urban,0,3,1,3,Mid-Luxury,2,2,Developing,Family
+"Puerto Vallarta, Mexico",Cfa,27,4,Urban,0,5,1,3,Mid-Luxury,2,2,Developing,Culture
+"La Paz, Bolivia",Cfa,28,4,Urban,0,0,1,2,Full Range,2,1,Developing,Family
+"London, UK",Cfa,22,5,Urban,0,5,1,4,Mid-Luxury,1,3,Overtourism,Culture
+"Bogota, Colombia",Cfa,25,5,Urban,0,0,1,1,Hostel-Mid,2,1,Developing,Budget
+"Kyoto, Japan",Cfa,22,3,Urban,0,8,1,3,Mid-Luxury,1,2,Overtourism,Culture
+"Hakone, Japan",Cfa,24,3,Urban,0,3,1,4,Mid-Luxury,1,2,Established,Luxury
+"Reykjavik, Iceland",Dfc,16,5,Urban,0,1,1,4,Mid-Luxury,2,1,Developing,Luxury
+"Chiang Mai, Thailand",Aw,32,4,Urban,0,1,1,1,Hostel-Mid,2,2,Developing,Budget
+"Adelaide, Australia",Cfa,24,4,Urban,0,0,1,3,Mid-Luxury,1,3,Established,Family
+"Hualien, Taiwan",Cfa,26,5,Urban,0,3,1,3,Mid-Luxury,2,1,Developing,Family
+"Verona, Italy",Csa,25,3,Urban,0,6,1,2,Full Range,1,2,Established,Culture
+"Yangon, Myanmar",Cfa,23,5,Urban,0,2,1,2,Full Range,2,1,Developing,Family
+"Florence, Italy",Csa,22,4,Urban,0,11,1,3,Mid-Luxury,1,2,Established,Culture
+"Montevideo, Uruguay",Cfa,23,5,Urban,0,2,1,2,Full Range,2,1,Developing,Family
+"Sapporo, Japan",Cfa,28,4,Urban,0,2,1,4,Mid-Luxury,1,2,Established,Luxury
+"Santiago, Chile",Cfa,27,5,Urban,0,3,1,2,Full Range,2,1,Developing,Family
+"Brisbane, Australia",Cfa,28,3,Urban,0,2,1,4,Mid-Luxury,1,3,Established,Luxury
+"Mumbai, India",Cfa,29,4,Urban,0,6,1,2,Full Range,2,1,Developing,Culture
+"Nairobi, Kenya",Aw,27,3,Urban,0,0,1,3,Mid-Luxury,2,1,Developing,Family
+"Santorini, Greece",Csa,29,3,Coastal,1,5,2,3,Mid-Luxury,2,2,Overtourism,Relaxation
+"Amalfi Coast, Italy",Csa,27,3,Coastal,1,5,2,3,Mid-Luxury,1,2,Established,Relaxation
+"Langkawi, Malaysia",Aw,30,4,Coastal,1,1,2,3,Mid-Luxury,2,3,Developing,Relaxation
+"Bilbao, Spain",Csa,26,4,Urban,0,4,1,3,Mid-Luxury,1,2,Established,Family
+"Austin, USA",Cfa,30,3,Urban,0,1,1,3,Mid-Luxury,1,3,Established,Family
+"Whistler, Canada",Cfb,25,5,Mountain,0,3,3,4,Mid-Luxury,1,3,Established,Luxury
+"St. Moritz, Switzerland",Cfb,30,3,Urban,0,3,1,4,Mid-Luxury,2,1,Developing,Luxury
+"Dalat, Vietnam",Aw,35,3,Jungle,0,0,3,2,Full Range,2,1,Developing,Adventure
+"Luang Prabang, Laos",Aw,25,4,Urban,0,1,1,2,Full Range,2,1,Developing,Family
+"Boston, USA",Cfa,27,4,Urban,0,2,1,4,Mid-Luxury,1,3,Established,Luxury
+"Patagonia, Chile",Cfa,30,4,Mountain,0,2,3,3,Mid-Luxury,2,1,Developing,Adventure
+"Interlaken, Switzerland",Cfb,26,4,Mountain,0,2,3,3,Mid-Luxury,2,1,Developing,Adventure
+"Phu Quoc, Vietnam",Aw,29,5,Coastal,1,1,2,2,Full Range,2,1,Developing,Family
+"Amsterdam, Netherlands",Cfa,23,5,Urban,0,1,1,2,Full Range,2,3,Overtourism,Family
+"Chamonix, France",Cfa,25,5,Mountain,0,5,3,3,Mid-Luxury,1,2,Established,Adventure
+"Tamarindo, Costa Rica",Cfa,30,5,Jungle,0,2,3,2,Full Range,2,1,Developing,Adventure
+"Siena, Italy",Csa,25,4,Urban,0,3,1,3,Mid-Luxury,1,2,Established,Family
+"Maldives, Maldives",Af,30,4,Coastal,1,0,2,3,Mid-Luxury,2,1,Developing,Relaxation
+"Lucerne, Switzerland",Cfb,26,3,Urban,0,0,1,4,Mid-Luxury,2,1,Developing,Luxury
+"Malacca, Malaysia",Aw,30,5,Urban,0,3,1,2,Full Range,2,3,Developing,Family
+"Tulum, Mexico",Cfa,22,5,Coastal,1,4,2,3,Mid-Luxury,2,2,Developing,Relaxation
+"Seoul, South Korea",Cfa,29,4,Urban,0,2,1,2,Full Range,2,2,Developing,Family
+"Chefchaouen, Morocco",Csa,22,4,Urban,0,3,1,1,Hostel-Mid,2,1,Developing,Budget
+"Hong Kong, China",Cfa,23,4,Urban,0,5,1,3,Mid-Luxury,2,1,Developing,Culture
+"Petra, Jordan",Csa,22,3,Desert,0,1,1,3,Mid-Luxury,2,1,Developing,Family
+"Malmo, Sweden",Cfb,16,3,Urban,0,0,1,3,Mid-Luxury,2,3,Developing,Family
+"Boracay, Philippines",Aw,25,5,Coastal,1,3,2,2,Full Range,2,3,Developing,Family
+"Sedona, USA",Cfa,29,4,Mountain,0,3,3,4,Mid-Luxury,1,3,Established,Luxury
+"Quito, Ecuador",Cfa,22,5,Urban,0,0,1,1,Hostel-Mid,2,1,Developing,Budget
+"El Nido, Philippines",Aw,25,4,Coastal,1,0,2,1,Hostel-Mid,2,3,Developing,Budget
+"Perth, Australia",Cfa,25,3,Urban,1,0,1,3,Mid-Luxury,1,3,Established,Family
+"Los Angeles, USA",Cfa,22,4,Urban,0,3,1,4,Mid-Luxury,1,3,Established,Luxury
+"Koh Samui, Thailand",Aw,32,3,Urban,0,1,1,2,Full Range,2,2,Developing,Family
+"Saint Petersburg, Russia",Cfa,26,5,Urban,0,3,1,2,Full Range,2,1,Developing,Family
+"Jerusalem, Israel",Csa,25,4,Urban,0,8,1,3,Mid-Luxury,2,1,Developing,Culture
+"Oslo, Norway",Dfc,16,5,Urban,0,1,1,3,Mid-Luxury,2,3,Developing,Family
+"Toronto, Canada",Cfb,26,3,Urban,0,0,1,3,Mid-Luxury,1,3,Established,Family
+"Honolulu, USA",Cfa,24,4,Coastal,1,2,2,4,Mid-Luxury,1,3,Established,Relaxation
+"Naples, Italy",Csa,23,4,Urban,1,4,1,3,Mid-Luxury,1,2,Established,Family
+"Bergen, Norway",Dfc,19,5,Urban,0,3,1,4,Mid-Luxury,2,3,Developing,Luxury
+"Cairns, Australia",Cfa,23,5,Coastal,1,0,3,4,Mid-Luxury,1,3,Established,Relaxation

@@ -1,0 +1,5 @@
+model,params,accuracy_mean,accuracy_std,macro_f1_mean,macro_f1_std,timestamp
+2026-04-29T22:26:55.803587+00:00,LogisticRegression,"{""class_weight"": ""balanced"", ""max_iter"": 2000}",5,0.9656,0.0197,0.9555,0.0308,"{""Adventure"": 1.0, ""Budget"": 1.0, ""Culture"": 0.9091, ""Family"": 0.9756, ""Luxury"": 1.0, ""Relaxation"": 1.0}",42
+2026-04-29T22:26:58.160604+00:00,RandomForest,"{""class_weight"": ""balanced"", ""n_estimators"": 100}",5,0.9801,0.0291,0.972,0.0469,"{""Adventure"": 1.0, ""Budget"": 1.0, ""Culture"": 0.9091, ""Family"": 0.9756, ""Luxury"": 1.0, ""Relaxation"": 1.0}",42
+2026-04-29T22:27:06.141594+00:00,LightGBM,"{""class_weight"": ""balanced""}",5,0.9754,0.0221,0.9534,0.0469,"{""Adventure"": 1.0, ""Budget"": 1.0, ""Culture"": 0.9091, ""Family"": 0.9756, ""Luxury"": 1.0, ""Relaxation"": 1.0}",42
+2026-04-29T22:29:20.864294+00:00,LightGBM_tuned,"{""clf__reg_alpha"": 0.0, ""clf__num_leaves"": 63, ""clf__n_estimators"": 100, ""clf__min_child_samples"": 5, ""clf__max_depth"": 4, ""clf__learning_rate"": 0.05}",5,0.9944,0.0,0.9944,0.0,{},42

@@ -1,0 +1,28 @@
+{
+  "model": "LightGBM_tuned",
+  "classes": [
+    "Adventure",
+    "Budget",
+    "Culture",
+    "Family",
+    "Luxury",
+    "Relaxation"
+  ],
+  "feature_columns": [
+    "avg_temp_peak_season_c",
+    "peak_season_length_months",
+    "unesco_sites_count",
+    "outdoor_activity_score",
+    "daily_cost_bucket",
+    "coastal_access",
+    "visa_difficulty",
+    "english_prevalence",
+    "climate_zone",
+    "terrain_primary",
+    "accommodation_range",
+    "tourism_maturity"
+  ],
+  "threshold": 0.6,
+  "timestamp": "2026-04-29T22:29:22.104263+00:00",
+  "git_sha": ""
+}

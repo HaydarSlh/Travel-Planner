@@ -1,0 +1,36 @@
+# ── Secrets ───────────────────────────────────────────────────────────────────
+.env
+backend/.env
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# ── ML Artifacts ──────────────────────────────────────────────────────────────
+*.joblib
+# results.csv is committed so experiment history is tracked in version control
+
+# ── Node / Frontend ───────────────────────────────────────────────────────────
+node_modules/
+frontend/dist/
+
+# ── Docker ────────────────────────────────────────────────────────────────────
+# docker-compose.override.yml  ← uncomment if you use local overrides
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.claude/
+.idea/
+*.swp

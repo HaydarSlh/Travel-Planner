@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Queenstown, New Zealand",
+    "styles": ["Adventure", "Family"],
+    "source": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+    "headings": ["Understand", "Get in", "Get around", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Connect", "Go next"]
+  },
+  {
+    "name": "Chamonix, France",
+    "styles": ["Adventure", "Relaxation"],
+    "source": "https://en.wikivoyage.org/wiki/Chamonix",
+    "headings": ["Understand", "Get in", "Get around", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Go next"]
+  },
+  {
+    "name": "Santorini, Greece",
+    "styles": ["Relaxation", "Culture"],
+    "source": "https://en.wikivoyage.org/wiki/Santorini",
+    "headings": ["Understand", "Regions", "Cities", "Get in", "Get around", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Stay safe"]
+  },
+  {
+    "name": "Maldives",
+    "styles": ["Relaxation", "Luxury"],
+    "source": "https://en.wikivoyage.org/wiki/Maldives",
+    "headings": ["Understand", "Regions", "Cities", "Get in", "Get around", "Talk", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Stay safe", "Respect"]
+  },
+  {
+    "name": "Kyoto, Japan",
+    "styles": ["Culture", "Family"],
+    "source": "https://en.wikivoyage.org/wiki/Kyoto",
+    "headings": ["Understand", "Get in", "Get around", "See", "Do", "Learn", "Buy", "Eat", "Drink", "Sleep", "Contact", "Go next"]
+  },
+  {
+    "name": "Rome, Italy",
+    "styles": ["Culture", "Luxury"],
+    "source": "https://en.wikivoyage.org/wiki/Rome",
+    "headings": ["Understand", "Districts", "Get in", "Get around", "See", "Do", "Learn", "Buy", "Eat", "Drink", "Sleep", "Stay safe", "Contact"]
+  },
+  {
+    "name": "Cusco, Peru",
+    "styles": ["Culture", "Adventure"],
+    "source": "https://en.wikivoyage.org/wiki/Cuzco",
+    "headings": ["Understand", "Get in", "Get around", "See", "Do", "Learn", "Buy", "Eat", "Drink", "Sleep", "Stay safe", "Connect"]
+  },
+  {
+    "name": "Hanoi, Vietnam",
+    "styles": ["Budget", "Culture"],
+    "source": "https://en.wikivoyage.org/wiki/Hanoi",
+    "headings": ["Understand", "Get in", "Get around", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Contact", "Stay safe", "Go next"]
+  },
+  {
+    "name": "Siem Reap, Cambodia",
+    "styles": ["Budget", "Culture"],
+    "source": "https://en.wikivoyage.org/wiki/Siem_Reap",
+    "headings": ["Understand", "Get in", "Get around", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Contact", "Stay safe", "Go next"]
+  },
+  {
+    "name": "Marrakech, Morocco",
+    "styles": ["Budget", "Culture"],
+    "source": "https://en.wikivoyage.org/wiki/Marrakech",
+    "headings": ["Understand", "Districts", "Get in", "Get around", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Contact", "Stay safe"]
+  },
+  {
+    "name": "St. Moritz, Switzerland",
+    "styles": ["Luxury", "Adventure"],
+    "source": "https://en.wikivoyage.org/wiki/St._Moritz",
+    "headings": ["Understand", "Get in", "Get around", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Go next"]
+  },
+  {
+    "name": "Bora Bora, French Polynesia",
+    "styles": ["Luxury", "Relaxation"],
+    "source": "https://en.wikivoyage.org/wiki/Bora_Bora",
+    "headings": ["Understand", "Get in", "Get around", "See", "Do", "Buy", "Eat", "Drink", "Sleep", "Stay safe", "Go next"]
+  },
+  {
+    "name": "Tokyo, Japan",
+    "styles": ["Family", "Culture", "Luxury"],
+    "source": "https://en.wikivoyage.org/wiki/Tokyo",
+    "headings": ["Understand", "Districts", "Get in", "Get around", "See", "Do", "Learn", "Buy", "Eat", "Drink", "Sleep", "Contact", "Stay safe", "Go next"]
+  }
+]
