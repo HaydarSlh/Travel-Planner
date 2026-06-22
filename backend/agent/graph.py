@@ -326,9 +326,9 @@ async def run_agent(
 
     # Graph stopped at "insufficient" — answer will be empty
     if not final.answer and final.preferences and not final.preferences.is_sufficient():
-        from agent.prompts import CLARIFICATION_PROMPT
+        from agent.prompts import build_clarification_message
         missing = final.preferences.missing_fields()
-        message = CLARIFICATION_PROMPT.format(missing_fields=", ".join(missing))
+        message = build_clarification_message(missing)
         return NeedsMoreInfoResponse(
             message=message,
             missing_fields=missing,
@@ -384,9 +384,9 @@ async def _run_pre_synthesis_graph(
     state = AgentState.model_validate(state_dict)
 
     if not state.styles_wanted and state.preferences and not state.preferences.is_sufficient():
-        from agent.prompts import CLARIFICATION_PROMPT
+        from agent.prompts import build_clarification_message
         missing = state.preferences.missing_fields()
-        message = CLARIFICATION_PROMPT.format(missing_fields=", ".join(missing))
+        message = build_clarification_message(missing)
         return NeedsMoreInfoResponse(
             message=message,
             missing_fields=missing,

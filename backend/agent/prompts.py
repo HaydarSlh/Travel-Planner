@@ -46,13 +46,20 @@ Re-read the schema and produce a valid JSON object. Do not include any prose,
 markdown fences, or explanation — only the JSON object.
 """
 
-CLARIFICATION_PROMPT = """\
-The user has asked for travel recommendations but their request is missing some
-key information. Politely ask them to provide the missing details in a single,
-friendly message. Be concise — one sentence per missing piece.
+_MISSING_FIELD_QUESTIONS = {
+    "budget or trip duration": "Could you tell me your approximate budget or how many days you're planning to travel?",
+    "what kind of trip you want (e.g. hiking, relaxation, culture)": "What kind of experience are you looking for — relaxation, adventure, culture, something else?",
+}
 
-Missing fields: {missing_fields}
-"""
+
+def build_clarification_message(missing_fields: list[str]) -> str:
+    """Return a friendly, natural follow-up question for the missing fields."""
+    questions = [
+        _MISSING_FIELD_QUESTIONS.get(f, f"Could you share more about: {f}?")
+        for f in missing_fields
+    ]
+    intro = "I'd love to help plan your trip! Just need a couple more details:"
+    return intro + " " + " ".join(questions)
 
 STYLE_PREDICTOR_PROMPT = """\
 You are a travel expert. Based on the structured trip preferences below, predict
